@@ -1,0 +1,10 @@
+
+data/token.txt
+*.class
+target/data/token.txt
+*.jar
+target/data/guilds/222458664051539969/guild.txt
+target/data/guilds/222458664051539969/guild.txt
+target/data/guilds/222458664051539969/guild.txt
+target/data/guilds/222458664051539969/members.txt
+target/data/guilds/244985133550141441/guild.txt
