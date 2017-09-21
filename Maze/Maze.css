@@ -1,0 +1,28 @@
+div.content {
+}
+
+div.buttons {
+	display: block;
+	height: 40px;
+	text-align: center;
+}
+
+button {
+	background-color: #FFF;
+	padding: 5px 10px;
+	border: solid black 1px;
+	margin: 10px 3px 0;
+}
+
+button:hover {
+	background-color: rgba(25, 100, 200, 0.7);
+}
+
+button:active {
+	background-color: rgba(25, 100, 200, 1);
+}
+
+canvas {
+	display: block;
+	margin: auto;
+}
